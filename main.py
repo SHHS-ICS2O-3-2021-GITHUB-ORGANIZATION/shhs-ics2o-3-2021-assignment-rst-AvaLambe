@@ -1,3 +1,9 @@
+# NAME OF AUTHOR: Ava Lambe
+# NAME OF THE PROGRAM: RST Movie Trivia 
+# DATE OF CREATION: Febuary 2, 2022 
+# PURPOSE OF PROGRAM: Trvivia/Quiz/Game 
+
+
 print("Movie/Show Trivia!\n")
 
 class Question:
@@ -42,15 +48,4 @@ def run_quiz(questions):
                score += 1
      print("You got", score, "out of", len(questions))
 
-run_quiz(questions)# NAME OF AUTHOR:  
-# NAME OF THE PROGRAM:  
-# DATE OF CREATION:  
-# PURPOSE OF PROGRAM:  
-
-# VARIABLE DEFINITION
-
-# INPUT
-
-# PROCESSING
-
-# OUTPUT
+run_quiz(questions)
